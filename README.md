@@ -8,5 +8,5 @@ terraform-portfolio/
 ├── profile.jpeg            # Profile image used in the portfolio
 ├── .gitignore              # Specifies files to ignore in version control
 ├── terraform.tfstate       # Terraform state file (auto-generated)
-├── terraform.tfstate.backup# Backup of the Terraform state file (auto-generated)
+├── terraform.tfstate.backup # Backup of the Terraform state file (auto-generated)
 └── .terraform.lock.hcl     # Terraform dependency lock file (auto-generated)
