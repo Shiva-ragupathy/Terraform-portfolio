@@ -35,17 +35,5 @@ AWS Credentials: Configure your AWS credentials using the AWS CLI:
 
 ## 🚀 Deployment Steps
 
-:contentReference[oaicite:66]{index=66}:contentReference[oaicite:68]{index=68}
 
-## 🧹 Clean Up Resources
-
-:contentReference[oaicite:70]{index=70}:contentReference[oaicite:72]{index=72}
-
-## 📄 License
-
-:contentReference[oaicite:74]{index=74}:contentReference[oaicite:76]{index=76}
-
-## 🙌 Acknowledgements
-
-:contentReference[oaicite:78]{index=78}:contentReference[oaicite:80]{index=80}
 
