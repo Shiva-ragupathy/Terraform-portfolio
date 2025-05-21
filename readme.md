@@ -47,3 +47,9 @@ After successful deployment, Terraform will output the website endpoint URL. Ope
 5.) 🧹 Clean Up Resources
 
                   terraform destroy
+## 📽️ Project Walkthrough Video
+
+Check out the demo video on LinkedIn showcasing the full Terraform project:
+
+[![Watch on LinkedIn](https://img.shields.io/badge/Watch%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/posts/activity-7330864724357570560-QjvD)
+
