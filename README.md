@@ -22,6 +22,16 @@ terraform-portfolio/
 ## ✅ Prerequisites
 
 :contentReference[oaicite:62]{index=62}:contentReference[oaicite:64]{index=64}
+Before deploying this project, ensure you have the following installed and configured:
+
+Terraform: Install Terraform from the official website.
+
+AWS CLI: Install the AWS Command Line Interface from the official website.
+
+AWS Account: An AWS account with an IAM user having sufficient permissions to create S3 buckets and configure website hosting.
+
+AWS Credentials: Configure your AWS credentials using the AWS CLI:
+
 
 ## 🚀 Deployment Steps
 
