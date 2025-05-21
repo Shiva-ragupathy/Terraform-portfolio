@@ -2,16 +2,16 @@
 The Terraform-portfolio project by Shiva Ragupathy is designed to automate the deployment of a static portfolio website on AWS using Terraform. It provisions an S3 bucket configured for static website hosting and uploads essential web assets like index.html, error.html, and a profile image.This project serves as a practical example of Infrastructure as Code (IaC) using Terraform, ideal for beginners aiming to understand AWS resource provisioning and static site hosting.
 # 📁 Project Structure
  terraform-portfolio/
-├── main.tf                          # Defines AWS S3 bucket and website hosting configurations
-├── provider.tf                      # Specifies the AWS provider and region
-├── output.tf                        # Outputs the website endpoint URL
-├── index.html                       # Main HTML file for the portfolio
-├── error.html                       # Custom error page displayed on errors
-├── profile.jpeg                     # Profile image used in the portfolio
-├── .gitignore                       # Specifies files to ignore in version control
-├── terraform.tfstate                # Tracks the current state of infrastructure
-├── terraform.tfstate.backup         # Backup of the Terraform state file
-└── .terraform.lock.hcl              # Locks Terraform provider versions
+├── main.tf                          
+├── provider.tf                      
+├── output.tf                        
+├── index.html                       
+├── error.html                       
+├── profile.jpeg                     
+├── .gitignore                       
+├── terraform.tfstate                
+├── terraform.tfstate.backup         
+└── .terraform.lock.hcl              
 
 # ✅ Prerequisites 
 Before deploying this project, ensure you have the following installed and configured:
